@@ -1,0 +1,22 @@
+{"stocks": [
+    {
+        "shares": 10,
+        "cgt": 0.1,
+        "name": "tesla",
+        "purchase price": 1000,
+        "dividend": 1000,
+        "sale price": 1000,
+        "sale commission": 1000,
+        "buy commission": 1000
+    },
+    {
+        "shares": 5,
+        "cgt": 0.1,
+        "name": "apple",
+        "purchase price": 90,
+        "dividend": 910,
+        "sale price": 91,
+        "sale commission": 6000,
+        "buy commission": 1000
+    }
+]}

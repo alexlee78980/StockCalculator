@@ -1,0 +1,10 @@
+{"stocks": [{
+    "shares": 111,
+    "cgt": 7,
+    "name": "aa",
+    "purchase price": 7,
+    "dividend": 7,
+    "sale price": 7,
+    "sale commission": 7,
+    "buy commission": 1
+}]}

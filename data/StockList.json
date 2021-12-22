@@ -1,0 +1,22 @@
+{"stocks": [
+    {
+        "shares": 9,
+        "cgt": 9,
+        "name": "9",
+        "purchase price": 9,
+        "dividend": 9,
+        "sale price": 9,
+        "sale commission": 9,
+        "buy commission": 9
+    },
+    {
+        "shares": 8,
+        "cgt": 8,
+        "name": "8",
+        "purchase price": 8,
+        "dividend": 8,
+        "sale price": 8,
+        "sale commission": 8,
+        "buy commission": 8
+    }
+]}

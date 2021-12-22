@@ -1,0 +1,10 @@
+{"stocks": [{
+    "shares": 43,
+    "cgt": 342,
+    "name": "tesla",
+    "purchase price": 23,
+    "dividend": 34,
+    "sale price": 324,
+    "sale commission": 432,
+    "buy commission": 34
+}]}
